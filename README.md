@@ -1,6 +1,6 @@
 <h3 align="center">Designing complexity with simplicity in mind.</h3>
 
-<h3 align="left">Social Connections</h3>
+<h3 align="left">Social</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jenul-ferdinand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenul-ferdinand" height="30" width="40" /></a>
   <a href="https://instagram.com/jenul_ferdinand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jenul_ferdinand" height="30" width="40" /></a>
