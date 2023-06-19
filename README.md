@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-I'm a full-stack developer based in Melbourne, Australia, with a passion for building my version of the digital world one step at a time. From a young age, I've been coding projects and honing my skills, starting with game development and gradually expanding into full-stack development. Currently studying a Bachelor of Computer Science at Monash University, I embrace a hands-on approach from planning and designing to solving real-life problems with elegant code. With a constant thirst for knowledge, I stay ahead of the curve by learning new technologies and techniques. Join me on this journey as I bring innovative solutions to life, driven by curiosity, creativity, and the desire to make a positive impact in the digital landscape.
+I'm a full-stack developer based in Melbourne, Australia, dedicated to shaping the digital landscape with my unique creations. From a young age, I've been coding projects and honing my skills, starting with game development and gradually expanding into full-stack development. Currently studying a Bachelor of Computer Science at Monash University, I embrace a hands-on approach from planning and designing to solving real-life problems with elegant code. With a constant thirst for knowledge, I stay ahead of the curve by learning new technologies and techniques. Join me on this journey as I bring innovative solutions to life, driven by curiosity, creativity, and the desire to make a positive impact in the digital landscape.
 
 ---
 <h3 align="left">Social</h3>
