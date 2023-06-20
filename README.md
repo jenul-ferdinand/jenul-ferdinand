@@ -4,13 +4,13 @@
 
 I'm a full-stack developer based in Melbourne, Australia, dedicated to shaping the digital landscape with my unique creations. From a young age, I've been coding projects and honing my skills, starting with game development and gradually expanding into full-stack development. Currently studying a Bachelor of Computer Science at Monash University, I embrace a hands-on approach from planning and designing to solving real-life problems with elegant code. With a constant thirst for knowledge, I stay ahead of the curve by learning new technologies and techniques. Join me on this journey as I bring innovative solutions to life, driven by curiosity, creativity, and the desire to make a positive impact in the digital landscape.
 
-<a href="https://g.co/kgs/JwKoL8">
+<a href="https://g.co/kgs/JwKoL8" target="_blank">
         <img alt="Melbourne, Australia" title="Melbourne, Australia" src="https://custom-icon-badges.demolab.com/badge/Melbourne-AUS-green?style=for-the-badge&logo=location&logoColor=white"/>
 </a> 
-<a href="https://www.instagram.com/jenul_ferdinand">
+<a href="https://www.instagram.com/jenul_ferdinand" target="_blank">
         <img alt="Instagram" title="Instagram Profile Page" src="https://custom-icon-badges.demolab.com/badge/-Instagram-plum?style=for-the-badge&logo=icons8-instagram&logoColor=black"/>
 </a> 
-<a href="https://linkedin.com/in/jenul-ferdinand">
+<a href="https://linkedin.com/in/jenul-ferdinand" target="_blank">
         <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=person-fill&logoColor=white"/>
 </a> 
 
