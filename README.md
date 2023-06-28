@@ -33,7 +33,9 @@ I'm a full-stack developer based in Melbourne, Australia, dedicated to shaping t
 
 #
 
+
 ![Jenul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenul-ferdinand&show_icons=true&theme=aura)
+<a href="https://app.daily.dev/jenul_ferdinand"><img src="https://api.daily.dev/devcards/532fb97540bb4aebb0472fae0144bcad.png?r=tx4" width="150" alt="Jenul Ferdinand's Dev Card"/></a>
   
 [![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://www.buymeacoffee.com/jenul_ferdinand "Buy me a coffee")
 
