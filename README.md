@@ -35,6 +35,11 @@ I'm a full-stack developer based in Melbourne, Australia, dedicated to shaping t
 
 #
 
+### 📺 Latest YouTube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+#
 
 ![Jenul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenul-ferdinand&show_icons=true&theme=aura)
 <a href="https://app.daily.dev/jenul_ferdinand"><img src="https://api.daily.dev/devcards/532fb97540bb4aebb0472fae0144bcad.png?r=tx4" width="150" alt="Jenul Ferdinand's Dev Card"/></a>
