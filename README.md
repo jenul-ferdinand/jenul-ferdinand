@@ -49,7 +49,9 @@ I'm a full-stack developer based in Melbourne, Australia, dedicated to shaping t
 
 #
 
-![Jenul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenul-ferdinand&show_icons=true&theme=aura)
+| Github Stats | Typeracer |
+| :--- | ---: |
+| ![Jenul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenul-ferdinand&show_icons=true&theme=aura) | <a href="https://data.typeracer.com/pit/profile?user=type_proxy&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=type_proxy" border="0" alt="TypeRacer.com scorecard for user type_proxy"/></a>|
 
 [![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://www.buymeacoffee.com/jenul_ferdinand "Buy me a coffee")
 
