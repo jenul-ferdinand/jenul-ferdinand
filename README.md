@@ -14,7 +14,7 @@
 <br/>
 
 - **Computer Science Student at Monash University**
-- **Projects Lead at Faculty of IT Society (WIRED) at Monash University**
+- **Projects Lead at Faculty of IT Society (WIRED)**
 - **Coding Teacher at Digimaker**
 
 #
