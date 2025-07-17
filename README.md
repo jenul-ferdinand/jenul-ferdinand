@@ -15,7 +15,8 @@
 
 - **Computer Science Student at Monash University**
 - **Projects Lead at Faculty of IT Society (WIRED)**
-- **Coding Teacher at Digimaker**
+- **Coding Teacher at Digimaker (Contract)**
+- **Software Engineer at Plandid (Part-Time)**
 
 #
 
