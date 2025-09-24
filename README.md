@@ -13,10 +13,13 @@
 <br/>
 <br/>
 
-- **Computer Science Student at Monash University**
-- **Projects Lead at Faculty of IT Society (WIRED)**
-- **Coding Teacher at Digimaker (Contract)**
-- **Software Engineer at Plandid (Part-Time)**
+- **Bachelor of Computer Science (Advanced) Student at Monash University** | Graduating Nov 2026
+- **Ex-Project Lead at Faculty of IT Society (WIRED)** | May 2024 - Jun 2025
+- **Programming Tutor at Digimaker (Contract)** | Oct 2024 - Present
+- **Software Engineer at Plandid (Part-Time)** | Jul 2025 - Present
+- **Student Software Engineer at Monash Connected Autonomous Vehicle** | Aug 2025 - Present
+- **Student AI/ML Developer (PhD Supervised) at Monash Assistive Tech Team** | Aug 2025 - Present
+- **Computer Science Intern at Hawthorn Football Club (AFL)** | Aug 2025 - Present
 
 #
 
