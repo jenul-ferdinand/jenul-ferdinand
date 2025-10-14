@@ -13,13 +13,20 @@
 <br/>
 <br/>
 
+Degree: 
 - **Bachelor of Computer Science (Advanced) Student at Monash University** | Graduating Nov 2026
+
+Past Work Experience:
 - **Ex-Project Lead at Faculty of IT Society (WIRED)** | May 2024 - Jun 2025
+- **Ex-Computer Science Intern at Hawthorn Football Club (AFL)** | Aug 2025 - Oct 2025
+
+Current Work Experience:
 - **Programming Tutor at Digimaker (Contract)** | Oct 2024 - Present
 - **Software Engineer at Plandid (Part-Time)** | Jul 2025 - Present
+
+Volunteering / Student Teams:
 - **Student Software Engineer at Monash Connected Autonomous Vehicle** | Aug 2025 - Present
-- **Student AI/ML Developer (PhD Supervised) at Monash Assistive Tech Team** | Aug 2025 - Present
-- **Computer Science Intern at Hawthorn Football Club (AFL)** | Aug 2025 - Present
+- **Student AI Research and Development (PhD Supervised) at Monash Assistive Tech Team** | Aug 2025 - Present
 
 #
 
