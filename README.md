@@ -14,19 +14,18 @@
 <br/>
 
 Degree: 
-- **Bachelor of Computer Science (Advanced) Student at Monash University** | Graduating Nov 2026
+- **Computer Science Student at [Monash University](https://www.monash.edu/)** | Graduating Nov 2026
 
-Past Work Experience:
-- **Ex-Project Lead at Faculty of IT Society (WIRED)** | May 2024 - Jun 2025
-- **Ex-Computer Science Intern at Hawthorn Football Club (AFL)** | Aug 2025 - Oct 2025
+Current Experience:
+- **Software Engineer at [Plandid](https://github.com/Plandid-AU) (Part-Time)** | Jul 2025 - Present
+- **Software Engineer at [Monash Connected Autonomous Vehicle](https://monashcav.com/) (Student Team for [FYP](https://tus.libguides.com/gettingstartedwithyourfyp))** | Aug 2025 - Present
 
-Current Work Experience:
-- **Programming Tutor at Digimaker (Contract)** | Oct 2024 - Present
-- **Software Engineer at Plandid (Part-Time)** | Jul 2025 - Present
-
-Volunteering / Student Teams:
-- **Student Software Engineer at Monash Connected Autonomous Vehicle** | Aug 2025 - Present
-- **Student AI Research and Development (PhD Supervised) at Monash Assistive Tech Team** | Aug 2025 - Present
+Past Experience:
+- **Programming Tutor at [Digimaker](http://digimaker.com.au/) (Part-Time)** | Oct 2024 - Dec 2025
+- **AI Engineer at [Monash Assistive Tech Team](https://www.monatt.org/) (Student Team)** | Aug 2025 - Dec 2025
+- **Computer Science Intern at [Hawthorn Football Club](https://www.hawthornfc.com.au/) (AFL)** | Aug 2025 - Oct 2025
+- **Solutions Architect Intern at [UNICEF](https://www.unicef.org/) (Monash Innovation Guarantee)** | Jan 2025
+- **Project Lead at [Faculty of IT Society](https://www.wired.org.au/) (Student Club/Society)** | May 2024 - Jun 2025
 
 #
 
