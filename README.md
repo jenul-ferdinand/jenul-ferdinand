@@ -14,7 +14,7 @@
 
 <img width="150px" src="https://media1.tenor.com/m/WYEAk2FOwIUAAAAd/algorithm.gif"/> <img width="170px" src="https://media1.tenor.com/m/BRqi8sc5X2MAAAAd/algorithm-funny-face.gif"/> <img width="140px" src="https://media1.tenor.com/m/uaa1gPDEHmwAAAAd/jarvis-iron-man.gif"/> <img width="230px" src="https://media1.tenor.com/m/Z0a1h7s1wG0AAAAd/rust-rust-lang.gif" />
 
-<img width="265px" src="https://media1.tenor.com/m/Yr0U7trZbHUAAAAd/vibe-coding-coding.gif" /> <img width="150px" src="https://media1.tenor.com/m/DcSJg4oHtwoAAAAd/vibe-coding-bug.gif" /> <img width="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW84aHdqYzlyenVudWE4bDhld2Y1YXNzNmp0N2d5OGo2eDNmZnIzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VGthqYKqyKhipYxK2s/giphy.gif" />
+<img width="265px" src="https://media1.tenor.com/m/Yr0U7trZbHUAAAAd/vibe-coding-coding.gif" /> <img width="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW84aHdqYzlyenVudWE4bDhld2Y1YXNzNmp0N2d5OGo2eDNmZnIzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VGthqYKqyKhipYxK2s/giphy.gif" />
 
 &nbsp;
 
