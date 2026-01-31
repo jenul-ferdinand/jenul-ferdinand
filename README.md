@@ -16,7 +16,7 @@
 
 <img width="265px" src="https://media1.tenor.com/m/Yr0U7trZbHUAAAAd/vibe-coding-coding.gif" /> <img width="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW84aHdqYzlyenVudWE4bDhld2Y1YXNzNmp0N2d5OGo2eDNmZnIzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VGthqYKqyKhipYxK2s/giphy.gif" />
 
-&nbsp;
+#
 
 Degree: 
 - **Computer Science Student at [Monash University](https://www.monash.edu/)** | Graduating Nov 2026
@@ -24,13 +24,15 @@ Degree:
 Current Experience:
 - **Software Engineer at [Plandid](https://github.com/Plandid-AU) (Part-Time)** | Jul 2025 - Present
 - **Software Engineer at [Monash Connected Autonomous Vehicle](https://monashcav.com/) (Student Team for [FYP](https://tus.libguides.com/gettingstartedwithyourfyp))** | Aug 2025 - Present
+- **Programming Tutor at [Digimaker](http://digimaker.com.au/) (Part-Time)** | Oct 2024 - Present
 
 Past Experience:
-- **Programming Tutor at [Digimaker](http://digimaker.com.au/) (Part-Time)** | Oct 2024 - Dec 2025
+- **Developer Programmer at [Digimaker](http://digimaker.com.au) (Contract)** | Jan 2026
 - **AI Engineer at [Monash Assistive Tech Team](https://www.monatt.org/) (Student Team)** | Aug 2025 - Dec 2025
-- **Computer Science Intern at [Hawthorn Football Club](https://www.hawthornfc.com.au/) (AFL)** | Aug 2025 - Oct 2025
-- **Solutions Architect Intern at [UNICEF](https://www.unicef.org/) (Monash Innovation Guarantee)** | Jan 2025
-- **Project Lead at [Faculty of IT Society](https://www.wired.org.au/) (Student Club/Society)** | May 2024 - Jun 2025
+- **Computer Science Intern at [Hawthorn Football Club](https://www.hawthornfc.com.au/) (Internship)** | Aug 2025 - Oct 2025
+- **Developer Programmer at [Digimaker](http://digimaker.com.au) (Contract)** | Feb 2025 - Jul 2025
+- **Solutions Architect Intern at [UNICEF](https://www.unicef.org/) (Monash Innovation Guarantee Internship)** | Jan 2025
+- **Project Lead at [Monash Faculty of Information Technology Society](https://www.wired.org.au/) (Student Society)** | May 2024 - Jun 2025
 
 #
 
