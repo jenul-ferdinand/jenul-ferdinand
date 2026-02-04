@@ -54,4 +54,6 @@ My goto databases
 
 #
 
+![Contributions Graph Space Invaders](game.gif)
+
 ![Jenul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenul-ferdinand&show_icons=true&theme=aura) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenul-ferdinand&layout=donut&theme=aura) ![](https://data.typeracer.com/misc/badge?user=type_proxy) 
