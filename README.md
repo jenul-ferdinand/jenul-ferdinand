@@ -1,16 +1,16 @@
 # Jenul Ferdinand
 
-<a href="https://g.co/kgs/JwKoL8" target="_blank">
-        <img alt="Melbourne, Australia" title="Melbourne, Australia" src="https://custom-icon-badges.demolab.com/badge/Melbourne-AUS-green?style=for-the-badge&logo=location&logoColor=white"/>
-</a> 
-<a href="https://linkedin.com/in/jenul-ferdinand" target="_blank">
-        <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=person-fill&logoColor=white"/>
-</a>
-<a href="https://www.buymeacoffee.com/jenul_ferdinand "Buy me a coffee" target="_blank">
-        <img alt="Buy Me a Coffee" title="Buy me a Coffee" src="https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/>
-</a>
-
-&nbsp;
+<p align="center">
+  <a href="https://g.co/kgs/JwKoL8" target="_blank">
+    <img alt="Melbourne, Australia" title="Melbourne, Australia" src="https://custom-icon-badges.demolab.com/badge/Melbourne-AUS-green?style=for-the-badge&logo=location&logoColor=white"/>
+  </a> 
+  <a href="https://linkedin.com/in/jenul-ferdinand" target="_blank">
+    <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=person-fill&logoColor=white"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/jenul_ferdinand "Buy me a coffee" target="_blank">
+    <img alt="Buy Me a Coffee" title="Buy me a Coffee" src="https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/>
+  </a>
+</p>
 
 <img width="150px" src="https://media1.tenor.com/m/WYEAk2FOwIUAAAAd/algorithm.gif"/> <img width="170px" src="https://media1.tenor.com/m/BRqi8sc5X2MAAAAd/algorithm-funny-face.gif"/> <img width="140px" src="https://media1.tenor.com/m/uaa1gPDEHmwAAAAd/jarvis-iron-man.gif"/> <img width="230px" src="https://media1.tenor.com/m/Z0a1h7s1wG0AAAAd/rust-rust-lang.gif" />
 
