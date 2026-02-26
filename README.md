@@ -27,7 +27,7 @@ Current Experience:
 - **Programming Tutor at [Digimaker](http://digimaker.com.au/) (Part-Time)** | Oct 2024 - Present
 
 Past Experience:
-- **Developer Programmer at [Digimaker](http://digimaker.com.au) (Contract)** | Jan 2026
+- **Developer Programmer at [Digimaker](http://digimaker.com.au) (Contract)** | Jan 2026 - Feb 2026
 - **AI Engineer at [Monash Assistive Tech Team](https://www.monatt.org/) (Student Team)** | Aug 2025 - Dec 2025
 - **Computer Science Intern at [Hawthorn Football Club](https://www.hawthornfc.com.au/) (Internship)** | Aug 2025 - Oct 2025
 - **Developer Programmer at [Digimaker](http://digimaker.com.au) (Contract)** | Feb 2025 - Jul 2025
