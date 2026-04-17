@@ -1,4 +1,6 @@
-# Jenul Ferdinand
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=000000&text=Jenul%20Ferdinand&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=Building%20software%20that%20lasts.&reversal=false&fontAlignY=43&descAlignY=75">
+
+<br/>
 
 <p align="center">
   <a href="https://g.co/kgs/JwKoL8" target="_blank">
@@ -18,42 +20,72 @@
 
 #
 
-Degree: 
-- **Computer Science Student at [Monash University](https://www.monash.edu/)** | Graduating Nov 2026
+<table>
+  <tr>
+    <td>
+      <p><b>Education</b></p>
+      <p><sub>
+        ➜ Bachelor of Computer Science at Monash University | Graduating Nov 2026
+      </sub></p>
+    </td>
+  </tr>
+</table>
 
-Current Experience:
-- **Software Engineer at [Plandid](https://github.com/Plandid-AU) (Part-Time)** | Jul 2025 - Present
-- **Software Engineer at [Monash Connected Autonomous Vehicle](https://monashcav.com/) (Student Team for [FYP](https://tus.libguides.com/gettingstartedwithyourfyp))** | Aug 2025 - Present
-- **Programming Tutor at [Digimaker](http://digimaker.com.au/) (Part-Time)** | Oct 2024 - Present
+<table>
+  <tr>
+    <td>
+      <p><b>Current Experience</b></p>
+      <p><sub>
+        ➜ Jul 2025 - Present | Backend Developer at <a href="http://plandid.com.au">Plandid</a> (Part-Time) <br/>
+        ➜ Oct 2024 - Present | Technology Mentor at <a href="http://digimaker.com.au/">Digimaker</a> (Part-Time) <br/>
+        ➜ Aug 2025 - Present | Software Team Member at <a href="http://monashcav.com">Monash Connected Autonomous Vehicle</a> (Student Team for FYP) <br/>
+      </sub></p>
+    </td>
+  </tr>
+</table>
 
-Past Experience:
-- **Developer Programmer at [Digimaker](http://digimaker.com.au) (Contract)** | Jan 2026
-- **AI Engineer at [Monash Assistive Tech Team](https://www.monatt.org/) (Student Team)** | Aug 2025 - Dec 2025
-- **Computer Science Intern at [Hawthorn Football Club](https://www.hawthornfc.com.au/) (Internship)** | Aug 2025 - Oct 2025
-- **Developer Programmer at [Digimaker](http://digimaker.com.au) (Contract)** | Feb 2025 - Jul 2025
-- **Solutions Architect Intern at [UNICEF](https://www.unicef.org/) (Monash Innovation Guarantee Internship)** | Jan 2025
-- **Project Lead at [Monash Faculty of Information Technology Society](https://www.wired.org.au/) (Student Society)** | May 2024 - Jun 2025
+<table>
+  <tr>
+    <td>
+      <p><b>Past Experience</b></p>
+      <p><sub>
+        ➜ Jan 2026 - Feb 2026 | Developer Programmer at <a href="http://digimaker.com.au">Digimaker</a> (Contract) <br/>
+        ➜ Aug 2025 - Dec 2025 | AI Developer at <a href="https://www.monatt.org/">Monash Assistive Tech Team</a> (Student Team) <br/>
+        ➜ Aug 2025 - Oct 2025 | AI Enablement Intern at <a href="https://www.hawthornfc.com.au/">Hawthorn Football Club</a> (Internship) <br/>
+        ➜ Feb 2025 - Jul 2025 | Developer Programmer at <a href="http://digimaker.com.au">Digimaker</a> (Contract) <br/>
+        ➜ Jan 2025 - Jan 2025 | Innovation Intern at <a href="https://www.unicef.org/">UNICEF</a> (Monash Innovation Guarantee Internship) <br/>
+        ➜ May 2024 - Jun 2025 | Project Lead at <a href="https://www.wired.org.au/">Monash Faculty of Information Technology Society</a> (Student Society) <br/>
+      </sub></p>
+    </td>
+  </tr>
+</table>
 
 #
 
-I mainly write code in 
+I mainly **write code** in 
 
-![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue) ![Rust](https://img.shields.io/badge/Rust-black?logo=rust) 
+<img src="https://skillicons.dev/icons?i=py,ts,c,cs">
 
-I specialise in backend dev with these frameworks
+Focused on **backend development** with these frameworks
 
-![Node.js | Express](https://img.shields.io/badge/Node.js-Express-white?logo=express) ![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-purple?logo=dotnet)
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet">
 
-When it comes to doing frontend stuff
+With these as my goto **databases**
 
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb">
 
-My goto databases
+When it comes to doing **frontend** stuff
 
-![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,rxjs,scss,wasm">
 
 #
 
 ![Contributions Graph Space Invaders](game.gif)
 
-![Jenul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenul-ferdinand&show_icons=true&theme=aura) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenul-ferdinand&layout=donut&theme=aura) ![](https://data.typeracer.com/misc/badge?user=type_proxy) 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenul-ferdinand&theme=highcontrast&hide_border=false" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jenul-ferdinand&show_icons=true&theme=highcontrast" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
+</p>
