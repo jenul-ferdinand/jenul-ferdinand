@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=000000&text=Jenul%20Ferdinand&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=Building%20software%20that%20lasts.&reversal=false&fontAlignY=43&descAlignY=75">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=000000&text=Jenul%20Ferdinand&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=Building%20software%20that%20lasts.&reversal=false&fontAlignY=48&descAlignY=80">
 
 <br/>
 
