@@ -68,7 +68,7 @@ I mainly **write code** in
 
 Focused on **backend development** with these frameworks
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet">
+<img src="https://skillicons.dev/icons?i=fastapi,express,dotnet">
 
 With these as my goto **databases**
 
