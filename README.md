@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=000000&text=Jenul%20Ferdinand&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=Building%20software%20that%20lasts.&reversal=false&fontAlignY=43&descAlignY=75">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=000000&text=Jenul%20Ferdinand&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=Building%20software%20that%20lasts.&reversal=false&fontAlignY=43&descAlignY=75">
 
 <br/>
 
@@ -23,9 +23,9 @@
 <table>
   <tr>
     <td>
-      <p><b>Education</b></p>
+      <p style="color: #eb4034"><b>EDUCATION</b></p>
       <p><sub>
-        ➜ Bachelor of Computer Science at Monash University | Graduating Nov 2026
+        ➜ Bachelor of Computer Science at Monash University | Graduating Nov 2026 <br/><br/>
       </sub></p>
     </td>
   </tr>
@@ -34,11 +34,11 @@
 <table>
   <tr>
     <td>
-      <p><b>Current Experience</b></p>
+      <p style="color: #34eb6b"><b>CURRENT EXPERIENCE</b></p>
       <p><sub>
         ➜ Jul 2025 - Present | Backend Developer at <a href="http://plandid.com.au">Plandid</a> (Part-Time) <br/>
         ➜ Oct 2024 - Present | Technology Mentor at <a href="http://digimaker.com.au/">Digimaker</a> (Part-Time) <br/>
-        ➜ Aug 2025 - Present | Software Team Member at <a href="http://monashcav.com">Monash Connected Autonomous Vehicle</a> (Student Team for FYP) <br/>
+        ➜ Aug 2025 - Present | Software Team Member at <a href="http://monashcav.com">Monash Connected Autonomous Vehicle</a> (Student Team for FYP) <br/><br/>
       </sub></p>
     </td>
   </tr>
@@ -47,14 +47,14 @@
 <table>
   <tr>
     <td>
-      <p><b>Past Experience</b></p>
+      <p style="color: #34b4eb"><b>PAST EXPERIENCE</b></p>
       <p><sub>
         ➜ Jan 2026 - Feb 2026 | Developer Programmer at <a href="http://digimaker.com.au">Digimaker</a> (Contract) <br/>
         ➜ Aug 2025 - Dec 2025 | AI Developer at <a href="https://www.monatt.org/">Monash Assistive Tech Team</a> (Student Team) <br/>
         ➜ Aug 2025 - Oct 2025 | AI Enablement Intern at <a href="https://www.hawthornfc.com.au/">Hawthorn Football Club</a> (Internship) <br/>
         ➜ Feb 2025 - Jul 2025 | Developer Programmer at <a href="http://digimaker.com.au">Digimaker</a> (Contract) <br/>
         ➜ Jan 2025 - Jan 2025 | Innovation Intern at <a href="https://www.unicef.org/">UNICEF</a> (Monash Innovation Guarantee Internship) <br/>
-        ➜ May 2024 - Jun 2025 | Project Lead at <a href="https://www.wired.org.au/">Monash Faculty of Information Technology Society</a> (Student Society) <br/>
+        ➜ May 2024 - Jun 2025 | Project Lead at <a href="https://www.wired.org.au/">Monash Faculty of Information Technology Society</a> (Student Society) <br/><br/>
       </sub></p>
     </td>
   </tr>
