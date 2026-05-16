@@ -36,8 +36,7 @@
     <td>
       <p style="color: #34eb6b"><b>CURRENT EXPERIENCE</b></p>
       <p><sub>
-        ➜ Jul 2025 - Present | Backend Developer at <a href="http://plandid.com.au">Plandid</a> (Part-Time) <br/>
-        ➜ Oct 2024 - Present | Technology Mentor at <a href="http://digimaker.com.au/">Digimaker</a> (Part-Time) <br/>
+        ➜ May 2026 - Present | Software Engineering Intern at <a href="http://www.lewis.com.au/">Lewis Australia</a> <br/>
         ➜ Aug 2025 - Present | Software Team Member at <a href="http://monashcav.com">Monash Connected Autonomous Vehicle</a> (Student Team for FYP) <br/><br/>
       </sub></p>
     </td>
@@ -49,6 +48,8 @@
     <td>
       <p style="color: #34b4eb"><b>PAST EXPERIENCE</b></p>
       <p><sub>
+        ➜ Jul 2025 - May 2026 | Backend Developer at <a href="http://plandid.com.au">Plandid</a> (Part-Time) <br/>
+        ➜ Oct 2024 - May 2026 | Technology Mentor at <a href="http://digimaker.com.au/">Digimaker</a> (Part-Time) <br/>
         ➜ Jan 2026 - Feb 2026 | Developer Programmer at <a href="http://digimaker.com.au">Digimaker</a> (Contract) <br/>
         ➜ Aug 2025 - Dec 2025 | AI Developer at <a href="https://www.monatt.org/">Monash Assistive Tech Team</a> (Student Team) <br/>
         ➜ Aug 2025 - Oct 2025 | AI Enablement Intern at <a href="https://www.hawthornfc.com.au/">Hawthorn Football Club</a> (Internship) <br/>
