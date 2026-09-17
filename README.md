@@ -36,7 +36,7 @@
     <td>
       <p style="color: #34eb6b"><b>CURRENT EXPERIENCE</b></p>
       <p><sub>
-        ➜ Sep 2026 - Present | Software Engineer at <a href="http://www.lewis.com.au/">Lewis Australia</a> <br/><br/>
+        ➜ Sep 2026 - Present | Software Engineer at <a href="http://www.lewis.com.au/">Lewis Australia</a> <br/>
         ➜ May 2026 - Sep 2026 | Software Engineering Intern at <a href="http://www.lewis.com.au/">Lewis Australia</a> <br/><br/>
       </sub></p>
     </td>
