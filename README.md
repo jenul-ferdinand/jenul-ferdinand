@@ -80,8 +80,3 @@ When it comes to doing **frontend** stuff
 
 <img src="https://skillicons.dev/icons?i=angular,rxjs,scss,wasm">
 
-#
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenul-ferdinand&theme=highcontrast&hide_border=false" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
-</p>
