@@ -85,7 +85,3 @@ When it comes to doing **frontend** stuff
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenul-ferdinand&theme=highcontrast&hide_border=false" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jenul-ferdinand&show_icons=true&theme=highcontrast" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
-</p>
