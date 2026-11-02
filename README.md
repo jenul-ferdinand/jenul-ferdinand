@@ -82,8 +82,6 @@ When it comes to doing **frontend** stuff
 
 #
 
-![Contributions Graph Space Invaders](game.gif)
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenul-ferdinand&theme=highcontrast&hide_border=false" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
 </p>
